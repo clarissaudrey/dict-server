@@ -28,15 +28,15 @@ information to this file and then commit and push this file.
 
 
 STUDENT  1
-Name :
-St. No:
-Unix Id :
-Email:
+Name : Clarissa Audrey
+St. No: 51844165
+Unix Id : clrslkmn
+Email: clrslkmn@students.cs.ubc.ca
 
 
 STUDENT  2
-Name :
-St. No:
+Name : 
+St. No: 
 Unix Id :
 Email:
 
